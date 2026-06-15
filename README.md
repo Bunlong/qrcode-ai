@@ -1,5 +1,6 @@
 # node-qrcode-ai
 
+```text
 src/
 ├── QRCode.ts
 ├── constants/
@@ -21,3 +22,4 @@ src/
     ├── SvgRenderer.ts
     ├── CanvasRenderer.ts
     └── AsciiRenderer.ts
+```
